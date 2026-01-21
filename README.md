@@ -1,5 +1,5 @@
 # VaultBoard
-
+> 🔒 Personal use only – not licensed for reuse or redistribution.
 Password & expiry dashboard  
 (Cloudflare Workers + KV + Pages)
 
