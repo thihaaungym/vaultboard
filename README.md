@@ -9,7 +9,9 @@ Owner: **Thiha Aung (Yone Man)**
 
 ## 0. Screenshot
 
-![VaultBoard dashboard](VaultBoard%20dashboard.png)
+VaultBoard UI screenshot 👇
+
+![VaultBoard dashboard](dashboard.png)
 ---
 
 ## 1. Project Overview
