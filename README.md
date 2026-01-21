@@ -20,7 +20,7 @@ VaultBoard UI screenshot 👇
 ## 1. Project Overview
 
 **VaultBoard** က password / account တွေကို  
-Start / End date နဲ့ status တွေထိင်းလင်းစွာ စီမံခန့်ခွဲဖို့လုပ်ထားတဲ့ dashboard ဖြစ်ပါတယ်။
+Start / End date နဲ့ status တွေကို စီမံခန့်ခွဲဖို့လုပ်ထားတဲ့ dashboard ဖြစ်ပါတယ်။
 
 ထည့်သိမ်းလို့ရမယ့် field တွေ –
 
