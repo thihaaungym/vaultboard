@@ -9,7 +9,7 @@ Owner: **Thiha Aung (Yone Man)**
 
 ## 0. Screenshot
 
-> ထည့်ထားတဲ့ UI screenshot ကို repo ထဲ upload လုပ်ပြီး ဒီနေရာက filename ကို ကိုယ့်ဟာနဲ့ ကိုက်အောင်ပြင်ပါ။
+> vaultboard-ui.png
 
 ![VaultBoard dashboard](vaultboard-ui.png)
 
